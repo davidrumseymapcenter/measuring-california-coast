@@ -46,7 +46,7 @@ Also in series of atlases: [https://searchworks.stanford.edu/view/10453625](http
 
 * First scientific mapping of the bay; features soundings, topography, and headland views 
 
-## Gold Rush Fever Sinks Ships
+# Gold Rush Fever Sinks Ships
 
 * Increased numbers of ships and travellers sailing up the west coast  
 * During the Gold Rush, from 1849 to 1861, 24 shipwrecks are known to have happened just outside the entrance to the bay  
@@ -54,7 +54,7 @@ Also in series of atlases: [https://searchworks.stanford.edu/view/10453625](http
 * Lighthouses were desperately needed, requiring assessment for ideal locations  
 * Coast Survey was dispatched to make maps and find locations for lighthouses
 
-### Key Events
+**Key Events**
 
 * 1848 Congress authorized first west coast survey: Columbia River to Monterey  
 * 1849 Gold discovered in CA → some crew members mutinied to go to gold fields   
@@ -88,9 +88,9 @@ Alternates / additions:
 * Shows continued importance of headlands imagery for navigation  
 * Sparse soundings and traces of triangulation
 
-## Mapping with Precision Instruments
+# Mapping with Precision Instruments
 
-### Measuring ocean depths
+## Measuring ocean depths
 
 Hydrography, the measurement of the depths and hazards on sea floor, had been practiced for hundreds of years prior to the gold rush and depth measurements, called “soundings,” can be observed on some of the older maps in this collection. In the nineteenth century surveyors continued to capture measurements in the traditional way, using a sounding lead. What distinguishes the maps made during this period from those in use previously is the increased accuracy of the ***locations*** of the measurements.  
 
@@ -105,7 +105,7 @@ One method for ascertaining location involved the use of a sextant to measure th
 | :---: | :---: |
 | [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
 
-### Coastal Hydrography
+## Coastal Hydrography
 
 Teams working in small boats moving along the coast found precise sounding locations by using a pair of sextants turned horizontally (on their sides) to measure the angles between locations on shore: one shared center point, or station, and additional stations located to the right and left. A three-arm protractor (or “station pointer”) was used to plot these angles onto the sketch map, and a depth measurement from the sounding lead was recorded at the boat’s calculated location found at the center of the protractor.
 
@@ -124,9 +124,9 @@ Morrison, Taylor “The Coastal Mappers” [https://searchworks.stanford.edu/vie
 ![][image7]  
 Sounding lead and line c.1900: [https://searchworks.stanford.edu/view/in00000128841](https://searchworks.stanford.edu/view/in00000128841)
 
-### Describing terrain or topography
+## Describing terrain or topography
 
-#### Tools needed to complete a traverse, or topographical sketch:
+**Tools needed to complete a traverse, or topographical sketch:**
 
 * [Plane table](https://searchworks.stanford.edu/view/11892835)  
 * [Drawing tool set](https://searchworks.stanford.edu/view/11892834)  
@@ -140,16 +140,16 @@ Sounding lead and line c.1900: [https://searchworks.stanford.edu/view/in00000128
 | ![][image10] | ![][image11] |
 | [12” Tamaya Wye level](https://docs.google.com/presentation/d/1dJOeV_tx-2cC3YkGN4THWUZ5dXoHUNn288sOdm6QbgM/edit?slide=id.g3e1561f5d68_4_89#slide=id.g3e1561f5d68_4_89)  Uncataloged Takeo Shikamura collection | [Stanley London Surveyor’s Prismatic Solar Compass](https://searchworks.stanford.edu/view/11892860) |
 
-### Calculating distances with triangulation
+## Calculating distances with triangulation
 
-#### Tools needed for triangulation
+**Tools needed for triangulation**
 
 * Baseline (extremely exact, very long – 2 mi? – set of poles)  
 * Theodolites (1 at each end)  
 * Stations (location markers) as points in the web of triangles  
 * Signal poles or small towers with flags 
 
-## Virtuoso Utilitarian Cartography
+# Virtuoso Utilitarian Cartography
 
 While the primary mission was improving safety of maritime traffic, surveyors’ and cartographers’ close attention to settlements – down to depictions of the footprints of individual buildings – suggests interest on the part of the federal government beyond that of just maintaining navigable waters. High quality and extraordinary detail make these maps invaluable for contemporary study of the historical ecology of the California coastline and urbanization of the west. Davidson’s work was held in high esteem; “the records of the computing division showed that the results of his observations stood higher than any ever executed in America, Europe, or India, and they were characterized as "unique in the history of geodesy"” He retired in 1895 and went on to teach geography at UC Berkeley.  
 ![][image12]  
