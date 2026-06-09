@@ -2,21 +2,16 @@ title: Measuring the California Coast
 description: Curriculum material for teaching about nineteeth-century precision mapping of the California coast. 
 theme: just-the-docs
 
-url: https://davidrumseymapcenter.github.io/measuring-california-coast/
+url: https://davidrumseymapcenter.github.io/measuring-california-coast
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/davidrumseymapcenter.github.io/measuring-california-coast
 
 plugins:
   - jekyll-default-layout
   
 # Enable or disable heading anchors
 heading_anchors: true
-
-# Aux links for the upper right navigation
-aux_links:
-  "Measuring the California Coast":
-    - "https://davidrumseymapcenter.github.io/measuring-california-coast/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
