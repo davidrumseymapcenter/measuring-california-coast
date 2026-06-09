@@ -86,6 +86,7 @@ GEM
     webrick (1.9.1)
 
 PLATFORMS
+  ruby
   arm64-darwin
   x86_64-linux-gnu
   x86_64-linux
