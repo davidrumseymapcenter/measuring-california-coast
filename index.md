@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Measuring the California Coast
 nav_order: 1
 ---
