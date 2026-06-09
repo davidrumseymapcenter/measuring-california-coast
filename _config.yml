@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://davidrumseymapcenter.github.io/measuring-california-coast
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/davidrumseymapcenter.github.io/measuring-california-coast
+  Home: https://davidrumseymapcenter.github.io/measuring-california-coast
 
 plugins:
   - jekyll-default-layout
