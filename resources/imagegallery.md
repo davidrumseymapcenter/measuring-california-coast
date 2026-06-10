@@ -1,8 +1,6 @@
 ---
 layout: minimal
 title: Image Gallery
-nav_exclude: true
-has_toc: false
 nav_order: 3
 ---
 
