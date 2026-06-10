@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Image Gallery
 nav_exclude: true
 has_toc: false
