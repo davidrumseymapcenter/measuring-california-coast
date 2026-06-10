@@ -41,7 +41,7 @@ Also in series of atlases: [View in Searchworks](https://searchworks.stanford.ed
 ![Map titled The Harbour of San Francisco, Nueva California](<images/The Harbour of San Francisco, Nueva California.jpg>)
 1833 London: Hydrographical Office of the Admiralty, “*The Harbour of San Francisco, Nueva California. The Entrance to San Francisco Harbour. By Captn. F.W. Beechy ... 1827 & 8.”*  
 [View in Searchworks](https://searchworks.stanford.edu/view/11878613) 
-[View on DavidRUmsey.com](https://www.davidrumsey.com/luna/servlet/s/hydwc4)
+[View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/hydwc4)
 
 * First scientific mapping of the bay; features soundings, topography, and headland views 
 
@@ -65,32 +65,40 @@ Also in series of atlases: [View in Searchworks](https://searchworks.stanford.ed
 
 
 ![Map titled Chart of the North Pacific Ocean](<images/Chart of the North Pacific Ocean.jpg>)
-
 1849 Imray, James, “*Chart of the North Pacific Ocean, …”*  
 
 ![Photo of Fabric Tube or Quiver for Rolled Chart](<images/Fabric Tube or Quiver for Rolled Chart.jpg>)
 
 [View in Searchworks](https://searchworks.stanford.edu/view/11523249) 
+
 [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/5bpzw5)
 
 * Canvas storage container indicates usage and compliments other objects in the set
 
+---
+
 Alternates / additions:   
 ![Map titled General Chart Embracing Surveys of the Bays of San Francisco and San Pablo](<images/General Chart.jpg>)
-1851, Ringgold, Cadwalader. “General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.” [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/w9bo86)   
+1851, Ringgold, Cadwalader. “General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.”
+
+[View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/w9bo86)   
 
 ![Map titled San Pablo Bay Carquines Straits](images/San_Pablo_Bay_Carquines_Straits.jpg) 
 1851, Ringgold, Cadwalader. “San Pablo Bay, Carquines Straits.”  
 [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/q8an8e)
 
+---
+
 ![San Francisco-San Diego](<images/San Francisco-San Diego.jpg>)
 
-1854 Bache, AD, *“Maps and Charts of the United States Coast Survey. A.D. Bache, Superintendent”*  [View in Searchworks](https://searchworks.stanford.edu/view/10453301)  
-View on DavidRumsey.com[https://www.davidrumsey.com/luna/servlet/s/y3519i]
+1854 Bache, AD, *“Maps and Charts of the United States Coast Survey. A.D. Bache, Superintendent”*  [View in Searchworks](https://searchworks.stanford.edu/view/10453301) 
+
+[View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/y3519i)
+
 *(there are multiple relevant pages in this atlas)*
 
 * Shows continued importance of headlands imagery for navigation  
-* Sparse soundings and traces of triangulation
+* Sparse soundings; some indications of triangulation
 
 ## Mapping with Precision Instruments
 
@@ -103,13 +111,13 @@ One method for ascertaining location involved the use of a sextant to measure th
 ![Modified sextant with spirit-level horizon](images/Modified sextant with spirit-level horizon.jpg)
 
 * George Davison’s modified sextant with spirit-level horizon 1867   
-  [[View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1); not yet catalogued]
+  [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1)
 
 | ![][image2] | ![][image3] |
 | :---: | :---: |
 | [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
 
-### Coastal Hydrography
+### Coastal hydrography
 
 Teams working in small boats moving along the coast found precise sounding locations by using a pair of sextants turned horizontally (on their sides) to measure the angles between locations on shore: one shared center point, or station, and additional stations located to the right and left. A three-arm protractor (or “station pointer”) was used to plot these angles onto the sketch map, and a depth measurement from the sounding lead was recorded at the boat’s calculated location found at the center of the protractor.
 
