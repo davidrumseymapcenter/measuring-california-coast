@@ -21,8 +21,17 @@ The Survey of the Coast was tasked with both creating navigational charts and id
 ## The wild Pacific Coast 
 
 * In the late 1700s, global resources and attention were focused on the American Revolution unfolding on the Atlantic Coast.    
-* Misrepresentation of [California as an Island](https://exhibits.stanford.edu/california-as-an-island) lingered in some copies of copies of copies of European maps.  *[View related lesson plan](https://davidrumseymapcenter.github.io/california-as-an-island/)*
-* Though fully traversed by European expeditions, the coast was still poorly understood, with the [first map of the San Francisco Bay](https://searchworks.stanford.edu/view/10773850) only published by the Portola Expedition in 1770\. Nearly 30 years then passed before Vancouver published his completed map of the northwest (shown below), which dispelled the idea of a passage connecting the Atlantic with the Pacific. *[View related lesson plan](https://davidrumseymapcenter.github.io/the-northwest-passage/)*
+* Misrepresentation of [California as an Island](https://exhibits.stanford.edu/california-as-an-island) lingered in some copies of copies of copies of European maps.  
+* Though fully traversed by European expeditions, the coast was still poorly understood, with the [first map of the San Francisco Bay](https://searchworks.stanford.edu/view/10773850) only published by the Portola Expedition in 1770.
+* Nearly 30 years then passed before Vancouver published his completed map of the northwest (shown below), which dispelled the idea of a passage connecting the Atlantic with the Pacific. 
+
+{: .note-title }
+>View Related Curriculum Sets
+>
+> *[California as an Island lesson plan](https://davidrumseymapcenter.github.io/california-as-an-island/)*
+>
+> *[The Northwest Passage lesson plan](https://davidrumseymapcenter.github.io/the-northwest-passage/)*
+
 
 | ![Map titled the Coast of N.W. America](images/coast_of_NW._America.jpg) | ![Plan of the Port of St. Francisco in California](images/Port_of_San_Francisco.jpg) |
 | ----- | ----- |
