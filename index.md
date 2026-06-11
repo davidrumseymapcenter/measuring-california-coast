@@ -18,50 +18,58 @@ In 1807, President Thomas Jefferson created the Survey of the Coast, an agency d
 
 The Survey of the Coast was tasked with both creating navigational charts and identifying locations for the placement of lighthouses. The development of suitable maps required innumerable skilled person-hours and use of bulky and often delicate precision instruments in inhospitable, even hazardous conditions. This collection combines instruments with cartographic examples to illustrate the challenges overcome by early surveyors of the California coast and to demystify the technical process of making these significant and beautiful maps.  
 
-## The Wild Pacific Coast (Late 1700s) 
+## The wild Pacific Coast 
 
-* Globally, resources and attention were focused on the American Revolution unfolding on the Atlantic Coast    
-* Misrepresentation of California as an Island lingered in some copies of copies of copies of European maps  
-* Though fully traversed by European expeditions, the coast was still poorly understood, with the first map of the San Francisco Bay only published by the Portola Expedition in 1770\. Nearly 30 years then passed before Vancouver published his completed map of the northwest, which dispelled the idea of a passage connecting the Atlantic with the Pacific.
+* In the late 1700s, global resources and attention were focused on the American Revolution unfolding on the Atlantic Coast.    
+* Misrepresentation of [California as an Island](https://exhibits.stanford.edu/california-as-an-island) lingered in some copies of copies of copies of European maps.  *[View related lesson plan](https://davidrumseymapcenter.github.io/california-as-an-island/)*
+* Though fully traversed by European expeditions, the coast was still poorly understood, with the [first map of the San Francisco Bay](https://searchworks.stanford.edu/view/10773850) only published by the Portola Expedition in 1770\. Nearly 30 years then passed before Vancouver published his completed map of the northwest (shown below), which dispelled the idea of a passage connecting the Atlantic with the Pacific. *[View related lesson plan](https://davidrumseymapcenter.github.io/the-northwest-passage/)*
 
 | ![Map titled the Coast of N.W. America](images/coast_of_NW._America.jpg) | ![Plan of the Port of St. Francisco in California](images/Port_of_San_Francisco.jpg) |
 | ----- | ----- |
-| 1798, Vancouver, *("Voyage of discovery to the North Pacific Ocean and round the world; in which the coast of north-west America has been carefully examined and accurately surveyed ... Atlas.") \[cartographic material\].* **THE MAPS ARE IN THE VOLUME LABELED: ATLAS FF**  [View in Searchworks](https://searchworks.stanford.edu/view/10453623)  [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/znr8uv)  | 1799, Jean-Francois de Galaup, comte de La Perouse, *“Plan of the Port of St. Francisco in California.”* [Charts And Plates To La Perouse's Voyage. Published as the Act directs Novr. 1st 1798, by G.G. & J. Robinson, Pater-noster Row. (title page only) J.M. Moreau Junr. delt. Heath Sculpt in SearchWorks catalog](https://searchworks.stanford.edu/view/10451027)  [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/wz2fov)  |
+| 1798, Vancouver, *"Voyage of discovery to the North Pacific Ocean and round the world; in which the coast of north-west America has been carefully examined and accurately surveyed ... Atlas." \[cartographic material\].*  [View in Searchworks](https://searchworks.stanford.edu/view/10453623) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/znr8uv)  | 1799, Jean-Francois de Galaup, comte de La Perouse, *“Plan of the Port of St. Francisco in California.”* [View in Searchworks](https://searchworks.stanford.edu/view/10451027) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/wz2fov)  |
 
-## Early Days of Scientific Mapping (early 1800s)
+
+## Early days of scientific mapping 
+* In the first half of the 19th century, ship's pilots and mapmakers alike sought to improve upon existing navigational charts of the western coast of North America.
+* Coastal conditions made sailing and taking accurate measurements difficult. 
+* Charts contained sparse and unreliable measurements, and pilots relied heavily on written guides and drawings of coastal landforms called "headlands" to orient themselves to the coastline.   
 
 ![Map titled Nouvelle Californie](<images/Nouvelle Californie.jpg>)
 
 1825 Vandermaelen, Philippe, “*Nouvelle Californie*”  
-Separate sheet [View in Searchworks](https://searchworks.stanford.edu/view/11878134)   
-Also in series of atlases: [View in Searchworks](https://searchworks.stanford.edu/view/10453625) 
+Separate sheet [View in Searchworks](https://searchworks.stanford.edu/view/11878134) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/p1rg64)
+Also found in series of atlases: [View in Searchworks](https://searchworks.stanford.edu/view/10453625) 
 
-* Depicts sparse soundings and attempts at representing topography
+* An early map of the coast around San Francisco Bay 
+* Note the crude depiction of the shape of the bay, sparse and scattered measurements, and sketchy topography
+* Locations of hazardous rocks are indicated with tiny x's near Monterey and Bodego Point
 
 ![Map titled The Harbour of San Francisco, Nueva California](<images/The Harbour of San Francisco, Nueva California.jpg>)
 1833 London: Hydrographical Office of the Admiralty, “*The Harbour of San Francisco, Nueva California. The Entrance to San Francisco Harbour. By Captn. F.W. Beechy ... 1827 & 8.”*  
 [View in Searchworks](https://searchworks.stanford.edu/view/11878613) 
 [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/hydwc4)
 
-* First scientific mapping of the bay; features soundings, topography, and headland views 
+* First scientific (or well-measured) mapping of the bay
+* Features soundings, topography, and views of headlands and specific rock hazards
+* Compare this with Vandermaelen's map published less than 10 years earlier  
 
-## Gold Rush Fever Sinks Ships
+## Gold Rush fever -- and bad maps! -- sink ships
 
-* Increased numbers of ships and travellers sailing up the west coast  
-* During the Gold Rush, from 1849 to 1861, 24 shipwrecks are known to have happened just outside the entrance to the bay  
-* Existing maps were insufficient for avoiding hazards  
-* Lighthouses were desperately needed, requiring assessment for ideal locations  
+* The discovery of gold in California in 1849 dramatically increased numbers of ships and travellers sailing up the west coast
+* The 1846 Oregon Treaty was also a factor, in which the United States gained control over territory including present-day Oregon and Washington states
+* Existing maps were insufficient for avoiding maritime hazards    
+* Between 1849 and 1861, 24 shipwrecks are known to have happened just outside the entrance to the San Francisco Bay  
+* Lighthouses were desperately needed along the entire coast, requiring assessment for ideal locations  
 * Coast Survey was dispatched to make maps and find locations for lighthouses
 
-**Key Events**
+**Related events**
 
-* 1848 Congress authorized first west coast survey: Columbia River to Monterey  
-* 1849 Gold discovered in CA → some crew members mutinied to go to gold fields   
-* 1850 CA statehood  
-* 1851 Act of Congress created Lighthouse Board  
-* 1854 First west coast lighthouse constructed in San Francisco Bay on Alcatraz   
-* 1861-65 Coast Survey members called back east due Civil War  
-* 1867 George Davidson named head of the Coast Survey of the Pacific after a decade surveying both coasts 
+- 1848 Congress authorized first west coast survey: Columbia River to Monterey  
+- 1849 Gold discovered in CA → some survey crew members mutinied to go to gold fields   
+- 1850 CA statehood  
+- 1854 First west coast lighthouse constructed on Alcatraz in San Francisco Bay    
+- 1861-65 Coast Survey members called back east due Civil War  
+- 1867 George Davidson named head of the Coast Survey of the Pacific after a decade surveying both coasts 
 
 
 ![Map titled Chart of the North Pacific Ocean](<images/Chart of the North Pacific Ocean.jpg>)
@@ -100,7 +108,7 @@ Alternates / additions:
 * Shows continued importance of headlands imagery for navigation  
 * Sparse soundings; some indications of triangulation
 
-## Mapping with Precision Instruments
+## Mapping with precision instruments
 
 ### Measuring ocean depths
 
@@ -108,12 +116,12 @@ Hydrography, the measurement of the depths and hazards on sea floor, had been pr
 
 One method for ascertaining location involved the use of a sextant to measure the angle of the sun above the horizon. To take this measurement one must be able to see the horizon (or know where it is), a difficult prospect on a moving vessel at sea in an area characterized by dense intermittent coastal fog. Technological solutions were born to address the problem of surveyors being unable to perceive the horizon. These took several different forms. (artificial horizon, spirit-level horizon, bubble horizon). Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
 
-![Modified sextant with spirit-level horizon](images/Modified sextant with spirit-level horizon.jpg)
+![Modified sextant with spirit-level horizon](<images/Modified sextant with spirit-level horizon.jpg>)
 
 * George Davison’s modified sextant with spirit-level horizon 1867   
   [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1)
 
-| ![][image2] | ![][image3] |
+| ![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>) | ![Davis Artificial Horizon](<davis_artificial_horizon.jpg>) |
 | :---: | :---: |
 | [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
 
@@ -132,8 +140,8 @@ Morrison, Taylor “The Coastal Mappers” [View in Searchworks](https://searchw
 * 3-arm protractor (or [station pointer](https://drive.google.com/file/d/1HvdQWU-_sfgg37cI4K9146DjbxKyu4kG/view?usp=drive_link)) to record on paper [View at Royal Museums Greenwich](https://www.rmg.co.uk/collections/objects/rmgc-object-42845)
 
 
-![][image6] [Pocket drawing instrument set](https://searchworks.stanford.edu/view/11892834) c. 1790  
-![][image7]  
+![Pocket drawing instrument set](<pocket_drawing_instrument_set.png>) [Pocket drawing instrument set](https://searchworks.stanford.edu/view/11892834) c. 1790  
+![Sounding lead and line](<sounding_lead_and_line.png>) 
 Sounding lead and line c.1900: [View in Searchworks](https://searchworks.stanford.edu/view/in00000128841)
 
 ### Describing terrain or topography
@@ -161,7 +169,7 @@ Sounding lead and line c.1900: [View in Searchworks](https://searchworks.stanfor
 * Stations (location markers) as points in the web of triangles  
 * Signal poles or small towers with flags 
 
-## Virtuoso Utilitarian Cartography
+## Elegant utilitarian cartography
 
 While the primary mission was improving safety of maritime traffic, surveyors’ and cartographers’ close attention to settlements – down to depictions of the footprints of individual buildings – suggests interest on the part of the federal government beyond that of just maintaining navigable waters. High quality and extraordinary detail make these maps invaluable for contemporary study of the historical ecology of the California coastline and urbanization of the west. Davidson’s work was held in high esteem; “the records of the computing division showed that the results of his observations stood higher than any ever executed in America, Europe, or India, and they were characterized as "unique in the history of geodesy"” He retired in 1895 and went on to teach geography at UC Berkeley.  
 ![][image12]  
