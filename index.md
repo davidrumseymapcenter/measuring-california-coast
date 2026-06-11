@@ -38,18 +38,19 @@ The Survey of the Coast was tasked with both creating navigational charts and id
 
 1825 Vandermaelen, Philippe, “*Nouvelle Californie*”  
 Separate sheet [View in Searchworks](https://searchworks.stanford.edu/view/11878134) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/p1rg64)
+
 Also found in series of atlases: [View in Searchworks](https://searchworks.stanford.edu/view/10453625) 
 
-* An early map of the coast around San Francisco Bay 
+* Early map of the coast around San Francisco Bay 
 * Note the crude depiction of the shape of the bay, sparse and scattered measurements, and sketchy topography
-* Locations of hazardous rocks are indicated with tiny x's near Monterey and Bodego Point
+* Locations of hazardous rocks are indicated with tiny x's near Monterey and Bodega Point
+
 
 ![Map titled The Harbour of San Francisco, Nueva California](<images/The Harbour of San Francisco, Nueva California.jpg>)
 1833 London: Hydrographical Office of the Admiralty, “*The Harbour of San Francisco, Nueva California. The Entrance to San Francisco Harbour. By Captn. F.W. Beechy ... 1827 & 8.”*  
-[View in Searchworks](https://searchworks.stanford.edu/view/11878613) 
-[View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/hydwc4)
+[View in Searchworks](https://searchworks.stanford.edu/view/11878613) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/hydwc4)
 
-* First scientific (or well-measured) mapping of the bay
+* First scientific / well-measured mapping of the bay
 * Features soundings, topography, and views of headlands and specific rock hazards
 * Compare this with Vandermaelen's map published less than 10 years earlier  
 
@@ -62,7 +63,7 @@ Also found in series of atlases: [View in Searchworks](https://searchworks.stanf
 * Lighthouses were desperately needed along the entire coast, requiring assessment for ideal locations  
 * Coast Survey was dispatched to make maps and find locations for lighthouses
 
-**Related events**
+**Significant related events**
 
 - 1848 Congress authorized first west coast survey: Columbia River to Monterey  
 - 1849 Gold discovered in CA → some survey crew members mutinied to go to gold fields   
@@ -73,15 +74,16 @@ Also found in series of atlases: [View in Searchworks](https://searchworks.stanf
 
 
 ![Map titled Chart of the North Pacific Ocean](<images/Chart of the North Pacific Ocean.jpg>)
-1849 Imray, James, “*Chart of the North Pacific Ocean, …”*  
 
 ![Photo of Fabric Tube or Quiver for Rolled Chart](<images/Fabric Tube or Quiver for Rolled Chart.jpg>)
 
-[View in Searchworks](https://searchworks.stanford.edu/view/11523249) 
+1849 Imray, James. “*Chart of the North Pacific Ocean, …”*  
 
-[View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/5bpzw5)
+[View in Searchworks](https://searchworks.stanford.edu/view/11523249) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/5bpzw5)
 
-* Canvas storage container indicates usage and compliments other objects in the set
+* Compare soundings and coastal representation with earlier maps
+* Map was used aboard the 
+* Canvas container used to store and transport 
 
 ---
 
@@ -121,7 +123,7 @@ One method for ascertaining location involved the use of a sextant to measure th
 * George Davison’s modified sextant with spirit-level horizon 1867   
   [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1)
 
-| ![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>) | ![Davis Artificial Horizon](<davis_artificial_horizon.jpg>) |
+| ![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>) | ![Davis Artificial Horizon](<images/davis_artificial_horizon.jpg>) |
 | :---: | :---: |
 | [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
 
@@ -140,8 +142,8 @@ Morrison, Taylor “The Coastal Mappers” [View in Searchworks](https://searchw
 * 3-arm protractor (or [station pointer](https://drive.google.com/file/d/1HvdQWU-_sfgg37cI4K9146DjbxKyu4kG/view?usp=drive_link)) to record on paper [View at Royal Museums Greenwich](https://www.rmg.co.uk/collections/objects/rmgc-object-42845)
 
 
-![Pocket drawing instrument set](<pocket_drawing_instrument_set.png>) [Pocket drawing instrument set](https://searchworks.stanford.edu/view/11892834) c. 1790  
-![Sounding lead and line](<sounding_lead_and_line.png>) 
+![Pocket drawing instrument set](<images/pocket_drawing_instrument_set.png>) [Pocket drawing instrument set](https://searchworks.stanford.edu/view/11892834) c. 1790  
+![Sounding lead and line](<images/sounding_lead_and_line.png>) 
 Sounding lead and line c.1900: [View in Searchworks](https://searchworks.stanford.edu/view/in00000128841)
 
 ### Describing terrain or topography
