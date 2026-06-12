@@ -30,9 +30,8 @@ The Survey of the Coast was tasked with both creating navigational charts and id
 {: .note-title }
 >View Related Curriculum Sets
 >
-> *[California as an Island lesson plan](https://davidrumseymapcenter.github.io/california-as-an-island/)*
->
-> *[The Northwest Passage lesson plan](https://davidrumseymapcenter.github.io/the-northwest-passage/)*
+> * *[California as an Island lesson plan](https://davidrumseymapcenter.github.io/california-as-an-island/)*
+> * *[The Northwest Passage lesson plan](https://davidrumseymapcenter.github.io/the-northwest-passage/)*
 
 
 | ![Map titled the Coast of N.W. America](images/coast_of_NW._America.jpg) | ![Plan of the Port of St. Francisco in California](images/Port_of_San_Francisco.jpg) |
@@ -47,7 +46,7 @@ The Survey of the Coast was tasked with both creating navigational charts and id
 * Coastal conditions made sailing and taking accurate measurements difficult. 
 * Charts contained sparse and unreliable measurements, and pilots relied heavily on written guides and drawings of coastal landforms called "headlands" to orient themselves to the coastline.   
 
-      ![Map titled Nouvelle Californie](<images/Nouvelle Californie.jpg>)
+![Map titled Nouvelle Californie](<images/Nouvelle Californie.jpg>)
 
 1825 Vandermaelen, Philippe, “*Nouvelle Californie*”  
 Separate sheet [View in Searchworks](https://searchworks.stanford.edu/view/11878134) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/p1rg64)
@@ -58,6 +57,7 @@ Also found in series of atlases: [View in Searchworks](https://searchworks.stanf
 * Note the crude depiction of the shape of the bay, sparse and scattered measurements, and sketchy topography
 * Locations of hazardous rocks are indicated with tiny x's near Monterey and Bodega Point
 
+---
 
 ![Map titled The Harbour of San Francisco, Nueva California](<images/The Harbour of San Francisco, Nueva California.jpg>)
 1833 London: Hydrographical Office of the Admiralty, “*The Harbour of San Francisco, Nueva California. The Entrance to San Francisco Harbour. By Captn. F.W. Beechy ... 1827 & 8.”*  
@@ -107,7 +107,8 @@ Also found in series of atlases: [View in Searchworks](https://searchworks.stanf
 * Note inset maps of harbors and islands
 * Canvas container was used to store and transport 
 
-  
+---
+
 ![Map titled General Chart Embracing Surveys of the Bays of San Francisco and San Pablo](<images/General Chart.jpg>)
 1851, Ringgold, Cadwalader. “General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.”
 
@@ -119,6 +120,7 @@ Also found in series of atlases: [View in Searchworks](https://searchworks.stanf
 
 [View on Searchworks.com](https://searchworks.stanford.edu/view/10452564) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/q8an8e)
 
+---
 
 ![San Francisco-San Diego](<images/San Francisco-San Diego.jpg>)
 
@@ -153,6 +155,8 @@ One method for ascertaining location involved the use of a sextant to measure th
 | [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
 
 
+
+
 ### Coastal hydrography
 
 Teams working in small boats moving along the coast found precise sounding locations by using a pair of sextants turned horizontally (on their sides) to measure the angles between locations on shore: one shared center point, or station, and additional stations located to the right and left. A three-arm protractor (or “station pointer”) was used to plot these angles onto the sketch map, and a depth measurement from the sounding lead was recorded at the boat’s calculated location found at the center of the protractor.
@@ -182,6 +186,9 @@ Sounding lead and line c.1900
 
  [View in Searchworks](https://searchworks.stanford.edu/view/in00000128841)
 
+
+
+
 ### Describing terrain or topography
 
 **Tools needed to complete a traverse, or topographical sketch:**
@@ -198,6 +205,9 @@ Sounding lead and line c.1900
 | ![][image10] | ![][image11] |
 | [12” Tamaya Wye level](https://docs.google.com/presentation/d/1dJOeV_tx-2cC3YkGN4THWUZ5dXoHUNn288sOdm6QbgM/edit?slide=id.g3e1561f5d68_4_89#slide=id.g3e1561f5d68_4_89)  Uncataloged Takeo Shikamura collection | [Stanley London Surveyor’s Prismatic Solar Compass](https://searchworks.stanford.edu/view/11892860) |
 
+
+
+
 ### Calculating distances with triangulation
 
 **Tools needed for triangulation**
@@ -207,9 +217,13 @@ Sounding lead and line c.1900
 * Stations (location markers) as points in the web of triangles  
 * Signal poles or small towers with flags 
 
+---
+
 ## Elegant utilitarian cartography
 
 While the primary mission was improving safety of maritime traffic, surveyors’ and cartographers’ close attention to settlements – down to depictions of the footprints of individual buildings – suggests interest on the part of the federal government beyond that of just maintaining navigable waters. High quality and extraordinary detail make these maps invaluable for contemporary study of the historical ecology of the California coastline and urbanization of the west. Davidson’s work was held in high esteem; “the records of the computing division showed that the results of his observations stood higher than any ever executed in America, Europe, or India, and they were characterized as "unique in the history of geodesy"” He retired in 1895 and went on to teach geography at UC Berkeley.  
+
+---
 
 ![Map titled City Of San Francisco And Its Vicinity, California](<images/City Of San Francisco And Its Vicinity California.jpg>)  
 
@@ -219,6 +233,8 @@ While the primary mission was improving safety of maritime traffic, surveyors’
 
 * Map center favorite, featured in our stairway wallpaper
 
+---
+
 ![Map titled San Francisco Harbour Surveyed by Lieut. James Alden U.S. Navy 1856](<images/San Francisco Harbour Surveyed by Lieut James Ald.jpg>) 
 
 1863, British Admiralty, *“San Francisco Harbour Surveyed by Lieut. James Alden U.S. Navy 1856”* 
@@ -227,6 +243,8 @@ While the primary mission was improving safety of maritime traffic, surveyors’
 
 * Soundings, buoys, instructions for entering the harbor  
 * Compare with 1833 British map and 1799 French map
+
+---
 
 ![Map titled Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States](<images/Tomales Bay California.jpg>)
 
@@ -238,6 +256,7 @@ While the primary mission was improving safety of maritime traffic, surveyors’
 * Shows separate parties for ***triangulation, topography, and hydrography***  
 * Davidson’s personal copy: Hand-annotated by him, with notes about 1857 earthquake
 
+---
 
 ![Map titled San Francisco Entrance, California](<images/San Francisco entrance California.jpg>)
 
