@@ -30,8 +30,8 @@ One method for ascertaining location involved the use of a sextant to measure th
 | [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
 
 
-## Geodetic  triangulation
-The quality of the maps produced by the Coast Survey depended on an underlying system of accurate geodetic control networks. Surveyors first measured precise base lines on flat terrain using very long poles engineered to extrememly exact lengths. From these base lines, a network of primary and secondary triangles was extended across the coastal topography. Survey teams worked from prominent high points, peaks, and bluffs, utilizing precision direction theodolites to measure horizontal and vertical angles between stations. To ensure the durability of the network, stations were permanently anchored using survey marks
+## Geodetic triangulation
+The quality of the maps produced by the Coast Survey depended on an underlying system of accurate geodetic control networks. Surveyors first measured precise base lines on flat terrain using very long poles engineered to extremely exact lengths. Surveyors would set up theodolites at each end of the baseline and measure horizontal and vertical angles to a target called a station. Knowing the measurement of the baseline meant surveyors could then use trigonometric calculations to calculate the distances to the station from either end, thereby creating the primary triangle. In the same fashion a network of additional triangles extended from the baseline across the coastal topography. Survey teams worked from prominent high points, peaks, and bluffs to complete the calculations. To ensure the durability of the network, benchmarks were permanently anchored where the stations had been. 
 
 **Tools needed for triangulation**
 
@@ -45,7 +45,7 @@ U.S.Coast and Geodetic Survey Benchmark, c1900
 [View on Searchworks](https://searchworks.stanford.edu/view/11894851)
 
 ## Describing terrain or topography
-Once the geodetic framework was secured, topographic details were captured in the field primarily using the plane table. Topographers set up these portable drafting boards directly on the terrain, using an alidade to sight prominent features, trace shorelines, outline coastal bluffs, and sketch contour intervals. This field data was compiled into highly detailed land-survey maps known as topographic sheets, or "T-sheets."
+From the instruments available in our collection, it appears that many of the precision instruments for topographical mapping remained unaltered as part of the US Coastal Survey. Once the geodetic framework was secured, topographic details were captured in the field primarily using the plane table. A specially crafted wooden board, mounted on a tripod and oriented toward magnetic north with a compass, holds the paper on which the surveyor would do their mapping. The alidade would allow the surveyor to sight features of the terrain, working with the stadia rod to measure distances and elevation points of the terrain. The surveyor would use the instruments in their drawing set to plot points and then create contour lines.
 
 **Tools needed to complete a traverse, or topographical sketch:**
 
