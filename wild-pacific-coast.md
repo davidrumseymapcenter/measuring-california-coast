@@ -20,7 +20,6 @@ nav_order: 1
 > * *[California as an Island](https://davidrumseymapcenter.github.io/california-as-an-island/)* Featuring maps from 1500-1800
 > * *[The Northwest Passage](https://davidrumseymapcenter.github.io/the-northwest-passage/)* Featuring maps from 1600-1800
 
-
 | ![Map titled the Coast of N.W. America](images/coast_of_NW._America.jpg) | ![Plan of the Port of St. Francisco in California](images/Port_of_San_Francisco.jpg) |
 | ----- | ----- |
 | 1798, Vancouver, *"Voyage of discovery to the North Pacific Ocean and round the world; in which the coast of north-west America has been carefully examined and accurately surveyed ... Atlas." \[cartographic material\].*  | 1799, Jean-Francois de Galaup, comte de La Perouse, *“Plan of the Port of St. Francisco in California.”*  |
