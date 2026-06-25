@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Narrative Sections 
+title: Narrative Chapters 
 nav_order: 1
 last_modified_date: 2026-06-25
 ---
@@ -15,4 +15,3 @@ In 1807, President Thomas Jefferson created the Survey of the Coast, an agency d
 
 The Survey of the Coast was tasked with both creating navigational charts and identifying locations for the placement of lighthouses. The development of suitable maps required innumerable skilled person-hours and use of bulky and often delicate precision instruments in inhospitable, even hazardous conditions. This collection combines instruments with cartographic examples to illustrate the challenges overcome by early surveyors of the California coast and to demystify the technical process of making these significant and beautiful maps.  
 
----
