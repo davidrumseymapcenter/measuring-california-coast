@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Increased traffic and treacherous conditions
-parent: Measuring the California Coast
+parent: Narrative Chapters
 nav_order: 3
 ---
 

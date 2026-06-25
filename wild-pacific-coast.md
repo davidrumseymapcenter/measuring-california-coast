@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The wild Pacific Coast 
-parent: Measuring the California Coast
+parent: Narrative Chapters
 nav_order: 1
 ---
 

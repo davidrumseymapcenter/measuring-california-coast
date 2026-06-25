@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mapping with precision instruments
-parent: Measuring the California Coast
+parent: Narrative Chapters
 nav_order: 4
 ---
 

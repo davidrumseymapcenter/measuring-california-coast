@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Early days of scientific mapping 
-parent: Measuring the California Coast
+parent: Narrative Chapters
 nav_order: 2
 ---
 
