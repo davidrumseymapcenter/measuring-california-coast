@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Measuring the California Coast
+title: Narrative Sections 
 nav_order: 1
 ---
 

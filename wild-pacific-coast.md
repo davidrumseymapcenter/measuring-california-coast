@@ -15,10 +15,10 @@ nav_order: 1
 * Nearly 30 years then passed before Vancouver published his completed map of the northwest (at left below), which dispelled the idea of a passage connecting the Atlantic with the Pacific. 
 
 {: .note-title }
->View Related Curriculum Sets
+>Related Curriculum Sets
 >
-> * *[California as an Island lesson plan](https://davidrumseymapcenter.github.io/california-as-an-island/)*
-> * *[The Northwest Passage lesson plan](https://davidrumseymapcenter.github.io/the-northwest-passage/)*
+> * *[California as an Island](https://davidrumseymapcenter.github.io/california-as-an-island/)* Featuring maps from 1500-1800
+> * *[The Northwest Passage](https://davidrumseymapcenter.github.io/the-northwest-passage/)* Featuring maps from 1600-1800
 
 
 | ![Map titled the Coast of N.W. America](images/coast_of_NW._America.jpg) | ![Plan of the Port of St. Francisco in California](images/Port_of_San_Francisco.jpg) |
