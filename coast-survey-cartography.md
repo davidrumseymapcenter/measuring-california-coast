@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Elegant utilitarian cartography
-parent: Measuring the California Coast
+parent: Narrative Chapters
+last_modified_date: 2026-06-25
 nav_order: 5
 ---
 

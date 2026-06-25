@@ -2,6 +2,7 @@
 layout: default
 title: Mapping with precision instruments
 parent: Narrative Chapters
+last_modified_date: 2026-06-25
 nav_order: 4
 ---
 
@@ -40,7 +41,7 @@ The quality of the maps produced by the Coast Survey depended on an underlying s
 * Signal poles or small towers with flags as "stations," visual targets for surveyors
 * Survey markers, or "benchmarks" for permanently preserving these locations  
 
-[Survey Marker, 1900](<images/surveymarker.png>)
+![Survey Marker, 1900](<images/surveymarker.png>)
 U.S.Coast and Geodetic Survey Benchmark, c1900
 [View on Searchworks](https://searchworks.stanford.edu/view/11894851)
 
@@ -93,5 +94,3 @@ Pocket drawing instrument set c. 1790 | [View in Searchworks](https://searchwork
 ![Sounding lead and line](<images/sounding_lead_and_line.png>) 
 Sounding lead and line c.1900n | [View in Searchworks](https://searchworks.stanford.edu/view/in00000128841)
 
-
----

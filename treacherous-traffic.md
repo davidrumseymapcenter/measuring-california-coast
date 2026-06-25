@@ -2,6 +2,7 @@
 layout: default
 title: Increased traffic and treacherous conditions
 parent: Narrative Chapters
+last_modified_date: 2026-06-25
 nav_order: 3
 ---
 
@@ -71,5 +72,3 @@ nav_order: 3
 * Demonstrates continued importance of headlands imagery for navigation  
 * Sparse soundings; some indications of triangulation
 * Compare the maps of the East Coast from the front of the atlas to the maps of California in the back.  
-
----
