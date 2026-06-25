@@ -24,10 +24,13 @@ nav_enabled: true
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 
-footer_content: 'footer content goes here'
+footer_content: 
+  '&copy; 2026 [Laura Krueger](mailto:lkrueger@stanford.edu) and [Kristina Larsen](mailto:kllarsen@stanford.edu).
+  *Website under development. Last updated: {{ site.time | date: "%b %e %Y" }}*
+  '
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

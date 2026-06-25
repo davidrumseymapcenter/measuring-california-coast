@@ -2,6 +2,7 @@
 layout: default
 title: Narrative Sections 
 nav_order: 1
+last_modified_date: 2026-06-25
 ---
 
 # Measuring the California Coast
