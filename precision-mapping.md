@@ -14,11 +14,11 @@ nav_order: 4
 
 ---
 
-## Measuring ocean depths
+## Inventions improve accuracy
 
 Hydrography, the measurement of the depths and hazards on sea floor, had been practiced for hundreds of years prior to the gold rush and depth measurements, called “soundings,” can be observed on some of the older maps in this collection. In the nineteenth century surveyors continued to capture measurements in the traditional way, using a sounding lead. What distinguishes the maps made during this period from those in use previously is the increased accuracy of the ***locations*** of the measurements.  
 
-One method for ascertaining location involved the use of a sextant to measure the angle of the sun above the horizon. To take this measurement one must be able to see the horizon (or know where it is), a difficult prospect on a moving vessel at sea in an area characterized by dense intermittent coastal fog. Technological solutions were born to address the problem of surveyors being unable to perceive the horizon. These took several different forms. (artificial horizon, spirit-level horizon, bubble horizon). Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
+One method for ascertaining location involved the use of a sextant to measure the angle of the sun above the horizon. To take this measurement one must be able to see the horizon (or know where it is), a difficult prospect on a moving vessel at sea in an area characterized by dense intermittent coastal fog. Technological solutions were born to address the problem of surveyors being unable to perceive the horizon. These took several different forms, including instruments like the black glass and spirit-level horizons in this collection. Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
 
 ![Modified sextant with spirit-level horizon](<images/Modified sextant with spirit-level horizon.jpg>)
 
