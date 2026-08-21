@@ -22,6 +22,8 @@ Gough, Barry M. 1971\. *The Royal Navy and the Northwest Coast of North America,
 
 Grossinger, Robin, Eric D. Stein, Kristen Cayce, Ruth Askevold, Shawna Dark, and Alison Whipple. n.d. “Historical Wetlands of the Southern California Coast: An Atlas of US Coast Survey T-Sheets, 1851- 1889.” *San Francisco Estuary Institute Contribution \#586 and Southern California Coastal Water Research Project Technical Report \#589*.
 
+Gurley, W. & L.E. 1873\. *A Manual of the Principal Instruments Used in American Engineering and Surveying*. 20th ed., rev. W. & L.E. Gurley.  
+
 Hambly, Maya. 1988\. *Drawing Instruments, 1580-1980*. Sotheby’s Publications.
 
 Harrison, Alexander Medina. 1869. *The Plane-Table and Its Use in Topographical Surveying*. With U.S. Coast and Geodetic Survey. D. Van Nostrand.
@@ -48,4 +50,3 @@ Uzes, Francois D. 1977\. *Chaining the Land: A History of Surveying in Californi
 
 Uzes, Francois D. 1980\. *Illustrated Price Guide to Antique Surveying Instruments and Books*. Landmark Enterprises. [https://www.compleatsurveyor.com/resources/eReference-Library/DadPriceGuideFinal.pdf](https://www.compleatsurveyor.com/resources/eReference-Library/DadPriceGuideFinal.pdf).
 
-W. & L.E. Gurley. 1873\. *A Manual of the Principal Instruments Used in American Engineering and Surveying /*. 20th ed., rev. W. & L.E. Gurley.  
