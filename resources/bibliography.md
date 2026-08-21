@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Bibliography
-last_modified_date: 2026-06-25
+last_modified_date: 2026-08-20
 nav_order: 3
 ---
 
