@@ -18,3 +18,8 @@ Primary sources like maps and instruments can be interpreted in many ways, and t
 
 A printable version of this guide can be downloaded [here](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a3b8de0f-ce00-4319-9895-988d341cfad3). 
 
+{: .note-title }
+>Related Curriculum Sets
+>
+> * *[California as an Island](https://davidrumseymapcenter.github.io/california-as-an-island/)* Featuring maps from 1500-1800
+> * *[The Northwest Passage](https://davidrumseymapcenter.github.io/the-northwest-passage/)* Featuring maps from 1600-1800
