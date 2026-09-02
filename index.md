@@ -1,17 +1,21 @@
 ---
 layout: default
-title: Measuring the California Coast 
+title: About this Guide 
 nav_order: 1
 last_modified_date: 2026-06-25
 ---
 
-# Measuring the California Coast
+# About this Guide
 
 ---
 
-## Content Summary
+## Introduction
 
-In 1807, President Thomas Jefferson created the Survey of the Coast, an agency dedicated to mapping coastlines at high levels of precision with the primary goal of making coastal waters safe for trade. Maps created near the end of the 18th century accurately described the contours of the Atlantic and Pacific coasts but many were not precise enough to guide sailors around hazards like rocks, sandbars, and shoals. Compounding this problem, in the West, there were no lighthouses to aid navigators sailing in particularly treacherous waters and foggy conditions. Construction and maintenance of lighthouses had come under the purview of the Treasury Department with the formation of the federal government in 1776 and were generally neglected until the mid-1800’s. The first west coast lighthouse was constructed in San Francisco Bay on Alcatraz Island in 1854 to mitigate against maritime accidents in the bustling gold-rush era harbor. 
+This document provides instructors with an historical overview about surveying and map-making on the west coast of the United States during the 1800s and is intended to establish an intellectual context for the maps and surveying instruments in the accompanying primary source material set. 
 
-The Survey of the Coast was tasked with both creating navigational charts and identifying locations for the placement of lighthouses. The development of suitable maps required innumerable skilled person-hours and use of bulky and often delicate precision instruments in inhospitable, even hazardous conditions. This collection combines instruments with cartographic examples to illustrate the challenges overcome by early surveyors of the California coast and to demystify the technical process of making these significant and beautiful maps.  
+The narrative is divided into five sections, presented chronologically. Within each there are high-level talking points providing an umbrella context for the objects in that section. Each object is represented with a thumbnail image, a bibliographic citation, and notes about that object, including things students can observe. 
+
+Primary sources like maps and instruments can be interpreted in many ways, and there’s rarely one “right answer” explaining what makes something historically significant. Instructors and students are encouraged to look closely, make observations, build hypotheses, and form research questions about the things they notice. Compare and contrast the ways various details like depth measurements, topography, and land vs. water are represented on maps over time, demonstrating an increasingly sophisticated European understanding of this geography.    
+
+A printable version of this guide can be downloaded [here](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a3b8de0f-ce00-4319-9895-988d341cfad3). 
 
