@@ -16,7 +16,7 @@ The narrative is divided into five sections, presented chronologically. Within e
 
 Primary sources like maps and instruments can be interpreted in many ways, and there’s rarely one “right answer” explaining what makes something historically significant. Instructors and students are encouraged to look closely, make observations, build hypotheses, and form research questions about the things they notice. Compare and contrast the ways various details like depth measurements, topography, and land vs. water are represented on maps over time, demonstrating an increasingly sophisticated European understanding of this geography.    
 
-A printable version of this guide can be downloaded [here](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a3b8de0f-ce00-4319-9895-988d341cfad3). 
+A printable version of this guide can be downloaded [here](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4ae39751-87a0-4c47-b241-e091e4e56455)). 
 
 {: .note-title }
 >Related Curriculum Sets
