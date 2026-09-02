@@ -15,12 +15,6 @@ nav_order: 1
 * Though fully traversed by European expeditions, the coast was still poorly understood, with the [first map of the San Francisco Bay](https://searchworks.stanford.edu/view/10773850) only published by the Portola Expedition in 1770.
 * Nearly 30 years then passed before Vancouver published his completed map of the northwest (at left below), which dispelled the idea of a passage connecting the Atlantic with the Pacific. 
 
-{: .note-title }
->Related Curriculum Sets
->
-> * *[California as an Island](https://davidrumseymapcenter.github.io/california-as-an-island/)* Featuring maps from 1500-1800
-> * *[The Northwest Passage](https://davidrumseymapcenter.github.io/the-northwest-passage/)* Featuring maps from 1600-1800
-
 | ![Map titled the Coast of N.W. America](images/coast_of_NW._America.jpg) | ![Plan of the Port of St. Francisco in California](images/Port_of_San_Francisco.jpg) |
 | ----- | ----- |
 | 1798, Vancouver, *"Voyage of discovery to the North Pacific Ocean and round the world; in which the coast of north-west America has been carefully examined and accurately surveyed ... Atlas." \[cartographic material\].*  | 1799, Jean-Francois de Galaup, comte de La Perouse, *“Plan of the Port of St. Francisco in California.”*  |
