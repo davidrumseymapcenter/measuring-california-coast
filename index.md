@@ -22,4 +22,4 @@ A printable version of this guide can be downloaded [here](https://acrobat.adobe
 >Related Curriculum Sets
 >
 > * *[California as an Island](https://davidrumseymapcenter.github.io/ca-as-an-island/)* Featuring maps from 1500-1800
-> * *[The Northwest Passage](https://davidrumseymapcenter.github.io/the-northwest-passage/)* Featuring maps from 1600-1800
+> * *[The Northwest Passage](https://davidrumseymapcenter.github.io/northwest-passage/)* Featuring maps from 1600-1800
