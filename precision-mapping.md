@@ -23,7 +23,7 @@ nav_order: 4
 * Technological solutions were born to address the problem of surveyors being unable to perceive the horizon, including instruments like the black glass and spirit-level horizons in this collection.  
 * Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
 
-![Modified sextant with spirit-level horizon](<images/Modified sextant with spirit-level horizon.jpg>)
+![Modified sextant with spirit-level horizon](<images/Modified sextant with spirit-level horizon.jpg>){: width="600"}
 
 * George Davison’s modified sextant with spirit-level horizon 1867   
   [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1)
