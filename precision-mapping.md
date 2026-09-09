@@ -32,7 +32,7 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
 * Wooden grip folds out for vertical use 
 * Feet allow for horizontal use
 * Angle to the sun is shown in the window on the brass arc
-* Belonged to George Davidson, eventual head of the Pacific Coast Survey, mentioned as providing astronomical measurements on some of the maps in this collection (“Where’s George?”)
+* Belonged to George Davidson, eventual head of the Pacific Coast Survey, mentioned as providing astronomical measurements on some of the maps in this collection *(Play “Where’s George?”by looking for his name.)*
 * Davidson filed a patent on this invention and this device was exhibited in the Paris Exposition in 1867 (“instruments of precision” group; awarded honorable mention)
 * Davidson actively used this tool in the field from 1867–1880s 
 
@@ -53,7 +53,6 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
 * To ensure the durability of the network, benchmarks were permanently anchored where the stations had been. 
 
 {: .note-title }
->Relevant instrumentation
 > **Tools needed for triangulation**
 > * Baseline 
 > * Theodolites 
@@ -61,10 +60,11 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
 > * Survey markers, or "benchmarks" for permanently preserving these locations  
 
 ![Survey Marker, 1900](<images/surveymarker.png>){: width="400"} 
+
 U.S.Coast and Geodetic Survey Benchmark, c1900
 [View on Searchworks](https://searchworks.stanford.edu/view/11894851)
 
-* Ask if anyone has seen something like this in real life 
+* Ask students if anyone has seen something like this in real life 
 * Placed “permanently” by surveyors to record locations 
 * Center is blank: there would be a code and date stamp when placed in the landscape; elev is also empty 
 * This is a newer variation but form is largely the same 
@@ -90,7 +90,6 @@ U.S.Coast and Geodetic Survey Benchmark, c1900
 * The surveyor would use the instruments in their drawing set to plot points and then create contour lines. 
 
 {: .note-title }
->Relevant instrumentation
 >**Tools needed to complete a traverse, or topographical sketch:**
 >* [Plane table](https://searchworks.stanford.edu/view/11892835)  
 >* [Drawing tool set](https://searchworks.stanford.edu/view/11892834)  
@@ -145,7 +144,6 @@ Lietz Alidade Ruler and leather case, 1900
 [View in Searchworks](https://searchworks.stanford.edu/view/10179705) 
 
 {: .note-title }
->Relevant instrumentation
 >**Tools needed for coastal hydrography:**
 >* Drawing board and [drawing tool set](https://searchworks.stanford.edu/view/11892834)  
 >* [Sounding lead](https://searchworks.stanford.edu/view/in00000128841) to measure depth  
