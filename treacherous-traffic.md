@@ -53,11 +53,11 @@ nav_order: 3
 
 [View on Searchworks.com](https://searchworks.stanford.edu/view/10452562) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/w9bo86)   
 
-
-![Map titled San Pablo Bay Carquines Straits](images/San_Pablo_Bay_Carquines_Straits.jpg) 
-1851, Ringgold, Cadwalader. “San Pablo Bay, Carquines Straits.”  
-
-[View on Searchworks.com](https://searchworks.stanford.edu/view/10452564) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/q8an8e)
+Things to notice:
+* Zig-zag pattern of soundings (depth measurements)
+* Lines of sight at entrance to bay
+* Extent of San Francisco
+* Presence of Vallejo, state capital from 1852-1853 
 
 ---
 
@@ -71,4 +71,5 @@ nav_order: 3
 
 * Demonstrates continued importance of headlands imagery for navigation  
 * Sparse soundings; some indications of triangulation
+* Compare details with Vancouver’s map above.
 * Compare the maps of the East Coast from the front of the atlas to the maps of California in the back.  
