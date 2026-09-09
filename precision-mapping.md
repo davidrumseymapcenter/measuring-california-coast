@@ -16,20 +16,33 @@ nav_order: 4
 
 ## Inventions improve accuracy
 
-Hydrography, the measurement of the depths and hazards on sea floor, had been practiced for hundreds of years prior to the gold rush and depth measurements, called “soundings,” can be observed on some of the older maps in this collection. In the nineteenth century surveyors continued to capture measurements in the traditional way, using a sounding lead. What distinguishes the maps made during this period from those in use previously is the increased accuracy of the ***locations*** of the measurements.  
-
-One method for ascertaining location involved the use of a sextant to measure the angle of the sun above the horizon. To take this measurement one must be able to see the horizon (or know where it is), a difficult prospect on a moving vessel at sea in an area characterized by dense intermittent coastal fog. Technological solutions were born to address the problem of surveyors being unable to perceive the horizon. These took several different forms, including instruments like the black glass and spirit-level horizons in this collection. Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
+* In the nineteenth century surveyors continued to capture measurements in traditional ways, but the maps made during this period increased accuracy of the locations of the measurements. 
+* Technological and methodological inventions improved accuracy 
+* Location could be ascertained by using a sextant to measure the angle of the sun above the horizon.  
+* To take this measurement one must be able to see the horizon (or know where it is), a difficult prospect on a moving vessel at sea in an area characterized by dense intermittent coastal fog.  
+* Technological solutions were born to address the problem of surveyors being unable to perceive the horizon, including instruments like the black glass and spirit-level horizons in this collection.  
+* Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
 
 ![Modified sextant with spirit-level horizon](<images/Modified sextant with spirit-level horizon.jpg>)
 
 * George Davison’s modified sextant with spirit-level horizon 1867   
   [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1)
 
+* Artificial horizon is incorporated into the device 
+* Wooden grip folds out for vertical use 
+* Feet allow for horizontal use
+* Angle to the sun is shown in the window on the brass arc
+* Belonged to George Davidson, eventual head of the Pacific Coast Survey, mentioned as providing astronomical measurements on some of the maps in this collection (“Where’s George?”)
+* Davidson filed a patent on this invention and this device was exhibited in the Paris Exposition in 1867 (“instruments of precision” group; awarded honorable mention)
+* Davidson actively used this tool in the field from 1867–1880s 
 
 | ![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>) | ![Davis Artificial Horizon](<images/davis_artificial_horizon.jpg>)|
 | ----- | ----- |
-| [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) (on order) |
+| [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) |
 
+* Artificial horizon is separate and must be used in combination with other instruments
+* Black glass works like a mirror without beaming the sun into the user’s eyes
+* Spirit level here is separate and used to level the glass – compare this with the one incorporated into the sextant 
 
 ## Geodetic triangulation
 The quality of the maps produced by the Coast Survey depended on an underlying system of accurate geodetic control networks. Surveyors first measured precise base lines on flat terrain using very long poles engineered to extremely exact lengths. Surveyors would set up theodolites at each end of the baseline and measure horizontal and vertical angles to a target called a station. Knowing the measurement of the baseline meant surveyors could then use trigonometric calculations to calculate the distances to the station from either end, thereby creating the primary triangle. In the same fashion a network of additional triangles extended from the baseline across the coastal topography. Survey teams worked from prominent high points, peaks, and bluffs to complete the calculations. To ensure the durability of the network, benchmarks were permanently anchored where the stations had been. 
@@ -56,10 +69,6 @@ From the instruments available in our collection, it appears that many of the pr
 * Stadia rod (held by a "rod man")  
 * [Alidade](https://searchworks.stanford.edu/view/11893423) 
 
-![Dietzgen plane table board](images/plane-table-board.jpeg)
-Dietzgen plane table board, 1950  
-[View in Searchworks](https://searchworks.stanford.edu/view/11892835)  
-
 ![Stanley London Surveyor’s Prismatic Solar Compass](images/Stanley-Surveyors-Solar-Compass.jpeg)
 Stanley London Surveyor’s Prismatic Solar Compass, 1910
 [View in Searchworks](https://searchworks.stanford.edu/view/11892860) 
@@ -85,8 +94,6 @@ Teams working in small boats moving along the coast found precise sounding locat
 * [Sounding lead](https://searchworks.stanford.edu/view/in00000128841) to measure depth  
 * Two sextants to locate position of the ship (without artificial horizon attachments)  
 * 3-arm protractor (or [station pointer](https://drive.google.com/file/d/1HvdQWU-_sfgg37cI4K9146DjbxKyu4kG/view?usp=drive_link)) to record on paper [[View at Royal Museums Greenwich]](https://www.rmg.co.uk/collections/objects/rmgc-object-42845)
-
-
 
 ![Pocket drawing instrument set](<images/pocket_drawing_instrument_set.png>) 
 Pocket drawing instrument set c. 1790 | [View in Searchworks](https://searchworks.stanford.edu/view/11892834) 
