@@ -1,6 +1,6 @@
 # Readme
 
-This document provides instructors with an historical overview about surveying and map-making on the west coast of the United States during the 1800s and is intended to establish an intellectual context for the maps and surveying instruments in the accompanying primary source material set.
+This GitHub Pages site provides instructors with an historical overview about surveying and map-making on the west coast of the United States during the 1800s and is intended to establish an intellectual context for the maps and surveying instruments in the accompanying primary source material set.
 
 The narrative is divided into five sections, presented chronologically. Within each there are high-level talking points providing an umbrella context for the objects in that section. Each object is represented with a thumbnail image, a bibliographic citation, and notes about that object, including things students can observe.
 
