@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Image Gallery
 last_modified_date: 2026-06-25
 nav_order: 2
