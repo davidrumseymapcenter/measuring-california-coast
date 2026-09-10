@@ -10,4 +10,4 @@ nav_order: 2
 
 <a href="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Measuring%20the%20California%20Coast-gallery.json" target="_blank" rel="noopener noreferrer">Click to open in new tab</a>
 
-<iframe src="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Measuring%20the%20California%20Coast-gallery.json" width="100%" height="600px"></iframe>
+[![Gallery of Map Images](/images/imagegallery.png)(https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Measuring%20the%20California%20Coast-gallery.json" target="_blank" rel="noopener noreferrer")
