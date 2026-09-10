@@ -40,7 +40,7 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
   
 ---
 
-![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>){: width="250"} 
+![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>){: width="300"} 
 
 [View in Searchworks:](https://searchworks.stanford.edu/view/11894775)  
 
@@ -50,13 +50,13 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
 
 ---
 
-![Davis Artificial Horizon](<images/davis_artificial_horizon.jpg>){: width="250"}
+![Davis Artificial Horizon](<images/davis_artificial_horizon.jpg>){: width="300"}
 
 [View in Searchworks](https://searchworks.stanford.edu/view/in00001200045)
 
-* Teaching device for demonstrating the principle behind the artificial horizon
+* Contemporary device for demonstrating the principle behind the artificial horizon
 * Intended to be filled with water, it functions essentially the same way as the black glass or spirit level does
-* Historic versions were made of wood, filled with mercury, and used in the field or aboard ships at sea
+* Historic versions were made of wood, filled with mercury, and used in the field or even on ships at sea
   
 ---
 
@@ -75,6 +75,9 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
 > * Signal poles or small towers with flags as "stations," visual targets for surveyors
 > * Survey markers, or "benchmarks" for permanently preserving these locations  
 
+
+---
+
 ![Survey Marker, 1900](<images/surveymarker.png>){: width="400"} 
 
 U.S.Coast and Geodetic Survey Benchmark, c1900
@@ -87,6 +90,7 @@ U.S.Coast and Geodetic Survey Benchmark, c1900
 * Finding these marks in the landscape is a hobby activity called “survey mark hunting” 
 * Learn more at [https://geodesy.noaa.gov/](https://geodesy.noaa.gov/)
 
+---
 
 ![Map titled Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States](<images/Tomales Bay California.jpg>)
 
@@ -118,6 +122,8 @@ U.S.Coast and Geodetic Survey Benchmark, c1900
 >* Stadia rod (held by a "rod man")  
 >* [Alidade](https://searchworks.stanford.edu/view/11893423) 
 
+---
+
 ![Pocket drawing instrument set](<images/pocket_drawing_instrument_set.png>)
 
 Pocket drawing instrument set c. 1790 | [View in Searchworks](https://searchworks.stanford.edu/view/11892834) 
@@ -131,6 +137,8 @@ Green shagreen (stingray skin) case.  Instruments made of silver, ivory. Housed 
 * Ruling pen, ink point (2.75")
 * Compass divider
 
+---
+
 ![Stanley London Surveyor’s Prismatic Solar Compass](images/Stanley-Surveyors-Solar-Compass.jpeg){: width="600"}
 
 Stanley London Surveyor’s Prismatic Solar Compass, 1910
@@ -141,6 +149,8 @@ Stanley London Surveyor’s Prismatic Solar Compass, 1910
 * Pocket instrument for ease of carrying
 * Use to locate north, align drawing, take bearnings 
 
+---
+
 ![Lietz Alidade Ruler and leather case](images/Lietz-Alidade-Ruler.jpeg){: width="600"}
 
 Lietz Alidade Ruler and leather case, 1900
@@ -149,6 +159,8 @@ Lietz Alidade Ruler and leather case, 1900
 * Ruler with two sights: “eye vane” has narrow hole or slit; “object vane” has wider window with wire stretched across it 
 * Surveyor would line them up and use the edge of the ruler to draw a straight line on their paper
 * Case marked “Stanford Geologic Survey”, a 100 year long program sending students out to map the western United States. Ended in 1995, we have many artifacts from this program 
+
+---
 
 ## Coastal hydrography
 
@@ -163,6 +175,8 @@ Lietz Alidade Ruler and leather case, 1900
 *Detail images from* Morrison, Taylor “The Coastal Mappers” 
 
 [View in Searchworks](https://searchworks.stanford.edu/view/10179705) 
+
+---
 
 {: .note-title }
 >**Tools needed for coastal hydrography:**
