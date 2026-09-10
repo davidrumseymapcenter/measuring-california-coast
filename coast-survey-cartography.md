@@ -35,18 +35,6 @@ While the primary mission was improving safety of maritime traffic, surveyors’
 
 ---
 
-![Map titled Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States](<images/Tomales Bay California.jpg>)
-
-1878, United States Coast Survey, *“Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States. Triangulation by G.A. Fairfield and G. Davidson Assts. Coast Survey.”* 
-
-[View in Searchworks](https://searchworks.stanford.edu/view/10453342) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/bcq25j)
-
-* Triangulation by George Davidson  
-* Shows separate parties for ***triangulation, topography, and hydrography***  
-* Davidson’s personal copy: Hand-annotated by him, with notes about 1857 earthquake
-
----
-
 ![Map titled San Francisco Entrance, California](<images/San Francisco entrance California.jpg>)
 
 1884, US Coast Survey, *“San Francisco Entrance, California”* 
