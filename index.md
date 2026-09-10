@@ -4,7 +4,7 @@ title: About this Guide
 last_modified_date: 2026-06-25
 ---
 
-# About this Guide
+# About this Instructor's Guide
 
 ---
 
