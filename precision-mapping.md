@@ -185,6 +185,8 @@ Lietz Alidade Ruler and leather case, 1900
 >* Two sextants to locate position of the ship (without artificial horizon attachments)  
 >* 3-arm protractor (or [station pointer](https://drive.google.com/file/d/1HvdQWU-_sfgg37cI4K9146DjbxKyu4kG/view?usp=drive_link)) to record on paper [[View at Royal Museums Greenwich]](https://www.rmg.co.uk/collections/objects/rmgc-object-42845)
 
+---
+
 ![Sounding lead and line](<images/sounding_lead_and_line.png>) 
 
 Sounding lead and line c.1900n | [View in Searchworks](https://searchworks.stanford.edu/view/in00000128841)
