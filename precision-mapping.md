@@ -23,6 +23,8 @@ nav_order: 4
 * Technological solutions were born to address the problem of surveyors being unable to perceive the horizon, including instruments like the black glass and spirit-level horizons in this collection.  
 * Artificial horizons were also used on land to establish the coordinates of a location when the horizon was obscured by trees, terrain, smoke, or fog. 
 
+---
+
 ![Modified sextant with spirit-level horizon](<images/Modified sextant with spirit-level horizon.jpg>){: width="600"}
 
 c1867, George Davison’s modified sextant with spirit-level horizon.  
@@ -34,15 +36,29 @@ c1867, George Davison’s modified sextant with spirit-level horizon.
 * Angle to the sun is shown in the window on the brass arc
 * Belonged to George Davidson, eventual head of the Pacific Coast Survey, mentioned as providing astronomical measurements on some of the maps in this collection *(Play “Where’s George?”by looking for his name.)*
 * Davidson filed a patent on this invention and this device was exhibited in the Paris Exposition in 1867 (“instruments of precision” group; awarded honorable mention)
-* Davidson actively used this tool in the field from 1867–1880s 
+* Davidson actively used this tool in the field from 1867–1880s
+  
+---
 
-| ![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>){: width="250"} | ![Davis Artificial Horizon](<images/davis_artificial_horizon.jpg>){: width="250"}|
-| ----- | ----- |
-| [Black Glass Artificial Horizon](https://searchworks.stanford.edu/view/11894775) | [Davis Instruments Artificial Horizon](https://www.davisinstruments.com/products/artificial-horizon?srsltid=AfmBOooT5Xn-S5-wnIXkvkJwiE8PQbQhasgbbhYAobS9rPO3dqssC2ug) |
+![Keuffel & Esser Black Glass Mirror Horizon.jpeg](<images/Keuffel_Esser_Black_Glass_Mirror_Horizon.jpeg>){: width="250"} 
+
+[View in Searchworks:](https://searchworks.stanford.edu/view/11894775)  
 
 * Artificial horizon is separate and must be used in combination with other instruments
 * Black glass works like a mirror without beaming the sun into the user’s eyes
 * Spirit level here is separate and used to level the glass – compare this with the one incorporated into the sextant 
+
+---
+
+![Davis Artificial Horizon](<images/davis_artificial_horizon.jpg>){: width="250"}
+
+[View in Searchworks](https://searchworks.stanford.edu/view/in00001200045)
+
+* Teaching device for demonstrating the principle behind the artificial horizon
+* Intended to be filled with water, it functions essentially the same way as the black glass or spirit level does
+* Historic versions were made of wood, filled with mercury, and used in the field or aboard ships at sea
+  
+---
 
 ## Geodetic triangulation
 * Quality of the maps depended on an underlying system of accurate geodetic control networks.  
@@ -69,19 +85,24 @@ U.S.Coast and Geodetic Survey Benchmark, c1900
 * Center is blank: there would be a code and date stamp when placed in the landscape; elev is also empty 
 * This is a newer variation but form is largely the same 
 * Finding these marks in the landscape is a hobby activity called “survey mark hunting” 
-* Learn more at https://geodesy.noaa.gov/
+* Learn more at [https://geodesy.noaa.gov/](https://geodesy.noaa.gov/)
 
----
-1878, United States Coast Survey, *Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States.*
+
+![Map titled Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States](<images/Tomales Bay California.jpg>)
+
+1878, United States Coast Survey, *“Tomales Bay California. From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey Of The Coast Of The United States. Triangulation by G.A. Fairfield and G. Davidson Assts. Coast Survey.”* 
+
+[View in Searchworks](https://searchworks.stanford.edu/view/10453342) • [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/s/bcq25j)
 
 * Tomales Bay has been cut in half to fit it onto the sheet  
 * Note triangulation by George Davidson, owner of the sextant above 
 * This was Davidson’s personal copy! Look for his handwritten notes about 1857 earthquake that happened while they were surveying 
-* Separate parties for triangulation, topography, and hydrography 
-* Davidson notes location of “primary station” in pencil, which would be recorded in the landscape with something similar to the benchmark above 
+* Separate parties for **triangulation, topography, and hydrography** 
+* Davidson notes location of “primary station” in pencil, which would have been recorded in the landscape with something similar to the benchmark above 
 
 [View on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%2216641.000%22&mi=0&qvq=sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1)
 
+---
 
 ## Describing terrain or topography
 * Once the geodetic framework was secured, details were captured in the field in a topographical sketch
@@ -126,14 +147,14 @@ Lietz Alidade Ruler and leather case, 1900
 [View in Searchworks](https://searchworks.stanford.edu/view/11893423) 
 
 * Ruler with two sights: “eye vane” has narrow hole or slit; “object vane” has wider window with wire stretched across it 
-* Survey would ;ine them up and draw a straight line on their paper
+* Surveyor would line them up and use the edge of the ruler to draw a straight line on their paper
 * Case marked “Stanford Geologic Survey”, a 100 year long program sending students out to map the western United States. Ended in 1995, we have many artifacts from this program 
 
 ## Coastal hydrography
 
 * Hydrography is the measurement of the depths of the sea floor, and was practiced for hundreds of years prior to the gold rush
 * Measurements, called “soundings,” can be observed on many maps throughout this collection
-* Teams working in small boats found precise locations by using a pair of sextants turned horizontally (on their sides) to measure the angles between locations in the geodetic network that had been established on shore: one shared center point, or station, and additional stations located to the right and left. A threearm protractor (or “station pointer”) was used to plot these angles onto the sketch map.
+* Teams working in small boats found precise locations by using a pair of sextants turned horizontally (on their sides) to measure the angles between locations in the geodetic network that had been established on shore: one shared center point, or station, and additional stations located to the right and left. A three-arm protractor (or “station pointer”) was used to plot these angles onto the sketch map.
 * A sounding lead attached to a long rope with small cloth flags at regular intervals was pitched overboard and lowered to the ocean floor. 
 * Depth measurements were established by “reading” the cloth flags and recorded on the drawing at the boat’s calculated location found at the center of the protractor. 
 
