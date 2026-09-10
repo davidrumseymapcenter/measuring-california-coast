@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Bibliography
 last_modified_date: 2026-08-20
 nav_order: 3
